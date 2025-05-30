@@ -1,0 +1,14 @@
+bash@5.2.37
+busybox@1.36.1
+extrautils@1.0
+kernel-headers@6.12.30
+libtommath@1.2.0
+lua@5.4.6
+musl@1.2.5
+power@1.0.0
+python3@3.12.10
+sqlite3@3.49.2
+unnos@base@0.2
+upt@0.2.1
+wpa_supplicant@2.11
+zstd@1.5
