@@ -14,3 +14,6 @@ wpa_supplicant@2.11
 zstd@1.5
 linux-libre@6.12.30
 libressl@4.1.0
+popt@1.19
+efivar@39.0
+efibootmgr@18.0
