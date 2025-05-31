@@ -18,3 +18,4 @@ popt@1.19
 efivar@39.0
 efibootmgr@18.0
 grub-bios@2.12
+doas@6.8.2
