@@ -12,3 +12,5 @@ unnos-base@0.2
 upt@0.3.0
 wpa_supplicant@2.11
 zstd@1.5
+linux-libre@6.12.30
+libressl@4.1.0
