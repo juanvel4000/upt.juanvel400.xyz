@@ -10,7 +10,7 @@ musl@1.2.5
 power@1.0.0
 python3@3.12.10
 sqlite3@3.49.2
-unnos-base@0.2
+unnos-base@0.3
 upt@0.4.1
 wpa_supplicant@2.11
 zstd@1.5
