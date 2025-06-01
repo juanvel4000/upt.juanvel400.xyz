@@ -1,4 +1,5 @@
 parted@3.6
+fuse3@3.17.2
 bash@5.2.37
 base@0.3
 hello@0.1.0
@@ -22,4 +23,5 @@ popt@1.19
 efivar@39.0
 efibootmgr@18.0
 grub-bios@2.12
+grub-efi@2.12
 doas@6.8.2
