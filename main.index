@@ -9,6 +9,7 @@ extrautils@1.0
 kernel-headers@6.12.30
 libtommath@1.2.0
 lua@5.4.6
+limine@9.3.3
 musl@1.2.5
 power@1.0.0
 python3@3.12.10
