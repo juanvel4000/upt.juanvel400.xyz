@@ -8,7 +8,7 @@ base@0.4
 hello@0.1.0
 e2fsprogs@1.47.2
 busybox@1.36.1
-extrautils@1.0
+file@5.46
 kernel-headers@6.12.30
 libuuid@1.0.3
 libtommath@1.2.0
