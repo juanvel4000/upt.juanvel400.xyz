@@ -20,7 +20,7 @@ musl@1.2.5
 python3@3.12.10
 sqlite3@3.49.2
 unnos-base@0.4
-upt@0.5.1
+upt@0.6
 wpa_supplicant@2.11
 zstd@1.5
 linux-libre@6.12.30
